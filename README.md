@@ -21,4 +21,7 @@ This Project consume The Movie DataBase API to show Top Popular Movies, First Sc
    - Material design.<br/>
    - Swipe Refreshlayout.<br/>
    
+   ## Note
+   - Please Insert your own Api Key.
+   
 ## ScreenShots<br/>
