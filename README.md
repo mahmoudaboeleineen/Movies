@@ -16,7 +16,7 @@ This Project consume The Movie DataBase API to show Top Popular Movies, First Sc
    - AndroidX .<br/>
    - Gson .<br/>
    - Glide .<br/>
-   - Constraintlayout .<br/>
+   - Constraint Layout .<br/>
    - TMDB API.<br/>
    - Material design.<br/>
    - Swipe Refreshlayout.<br/>
